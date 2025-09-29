@@ -1,0 +1,436 @@
+{
+  "project_info": {
+    "project_number": "272363630855",
+    "project_id": "oh-app-bcf24",
+    "storage_bucket": "oh-app-bcf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:d43716107b0571ffd915a2",
+        "android_client_info": {
+          "package_name": "com.aix.icast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:ed87bf88cce4b9edd915a2",
+        "android_client_info": {
+          "package_name": "com.aix.ohapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:a063c9ce9089c552d915a2",
+        "android_client_info": {
+          "package_name": "com.aix.ohshop.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-2k4iq3kls4hrlq0pocdqp3tho7fm527t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.ohshop.mobile",
+            "certificate_hash": "3327a1e5f67fa658f0b8701d5ebae8157619558a"
+          }
+        },
+        {
+          "client_id": "272363630855-cqnf9oj185d72p1f8vvcs27bdab7easa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.ohshop.mobile",
+            "certificate_hash": "b20d0d75510c94cccf4f433d794b57f8d7d70690"
+          }
+        },
+        {
+          "client_id": "272363630855-rul9tvldb6cpit86iumr0r18hm7523ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.ohshop.mobile",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:b934e160cff36834d915a2",
+        "android_client_info": {
+          "package_name": "com.aix.ohsop.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-aplee69rkfoi37741fkekashk490r530.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.ohsop.mobile",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:045cc299537396ccd915a2",
+        "android_client_info": {
+          "package_name": "com.aix.orderimmigration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-suke55ob5q84d0p7gcnsl3vbn1dhsg7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.orderimmigration",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:41ec07d7ce706f59d915a2",
+        "android_client_info": {
+          "package_name": "com.aix.web.iboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:68736ac7356b46abd915a2",
+        "android_client_info": {
+          "package_name": "com.aix.web.isell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-59ijelt36vv7135ir8qlojtja315llpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aix.web.isell",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:1d400fba4029c9efd915a2",
+        "android_client_info": {
+          "package_name": "com.example.click_ooh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:e76cb8ae8963d194d915a2",
+        "android_client_info": {
+          "package_name": "com.mycompany.expodashboardwhoopyvrc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-rhfl8r9kvoq9035colkig61st78vv170.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.expodashboardwhoopyvrc",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272363630855:android:82dff34621abcddfd915a2",
+        "android_client_info": {
+          "package_name": "com.mycompany.ohshopproductwebsitev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272363630855-ap28mlv4i263ladpd450ft0rvrgfcedm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMIxFSYA5P75KR7RZkC3lDsOMzLRKbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272363630855-7juoa88tki6bleln3du0roo3ab7pllun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272363630855-1np766cs065ag6b9qckdpgvhjl0iatgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aix.ohshop.mobile",
+                "app_store_id": "6461723510"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
